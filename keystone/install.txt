@@ -22,3 +22,5 @@
 # systemctl start httpd.service
 
 # pip install python-openstackclient
+
+# keystone-wsgi-admin
